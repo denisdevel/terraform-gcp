@@ -1,0 +1,7 @@
+region          = "europe-west2"
+gcp_project     = "najar-terraform-admin"
+#credentials     = "credentials.json"
+name            = "dev"
+subnet_cidr     = "10.10.1.0/24"
+#subnet_cidr2     = "10.10.2.0/24"
+#subnet_cidr3     = "10.10.3.0/24"
